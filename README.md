@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on: [`fjrtelebot`](https://github.com/fjrhub/fjrtelebot) & [`fajimelist`](https://github.com/fjrhub/fajimelist)
-- 🌱 Learning more about **Next.js** and **Cloud Deployment**
+- 🌱 Learning more about **Next.js**
 - 💬 Ask me about anything related to **bot development**, **automation**, or **Linux setup**
 - 🧠 I enjoy experimenting with **AI APIs**, **automation scripts**, and **open-source utilities**
 
@@ -19,17 +19,17 @@
 |-----------|--------|
 | 💻 Languages | JavaScript, Python, Bash |
 | ⚙️ Frameworks | Node.js, Express, Next.js |
-| 🧠 Databases | MongoDB, SQLite |
-| 🧰 Tools | Git, VS Code, Linux (Debian XFCE) |
-| ☁️ Deployment | Vercel, Render, Railway |
+| 🧠 Databases | MongoDB, Supabase |
+| 🧰 Tools | Git, VS Codium, Linux (Debian XFCE) |
+| ☁️ Deployment | Vercel |
 
 ---
 
 ### 📂 Featured Projects
-- 🪄 [**fjrtelebot**](https://github.com/fjrhub/fjrtelebot): Telegram bot with modular command system  
-- 🧾 [**fajimelist**](https://github.com/fjrhub/fajimelist): Simple list manager powered by JavaScript  
-- 🔧 [**tampermonkey-scripts**](https://github.com/fjrhub/tampermonkey-scripts): Custom browser automation scripts  
 
+- 🪄 [**fjrtelebot**](https://github.com/fjrhub/fjrtelebot): Feature-rich Telegram bot built with the Grammy framework — fast, modular, and easy to extend.  
+- 🎬 [**fajimelist**](https://github.com/fjrhub/fajimelist): Anime list website built with Next.js and deployed on Vercel — clean, fast, and responsive.  
+- 🔧 [**tampermonkey-scripts**](https://github.com/fjrhub/tampermonkey-scripts): A collection of custom Tampermonkey scripts for browser automation and content enhancement.  
 ---
 
 ### 📈 GitHub Stats
