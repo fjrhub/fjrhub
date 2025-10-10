@@ -1,12 +1,52 @@
-# GitHub Stats
+# 👋 Hi there, I'm Fjrhub!
 
+🌐 Passionate about **technology, automation, and web development**  
+💻 Mostly work with **JavaScript / Node.js**  
+⚙️ Love building **bots**, **web tools**, and exploring **API integrations**
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on: [`fjrtelebot`](https://github.com/fjrhub/fjrtelebot) & [`fajimelist`](https://github.com/fjrhub/fajimelist)
+- 🌱 Learning more about **Next.js** and **Cloud Deployment**
+- 💬 Ask me about anything related to **bot development**, **automation**, or **Linux setup**
+- 🧠 I enjoy experimenting with **AI APIs**, **automation scripts**, and **open-source utilities**
+
+---
+
+### 🧩 Tech Stack
+| Category | Tools |
+|-----------|--------|
+| 💻 Languages | JavaScript, Python, Bash |
+| ⚙️ Frameworks | Node.js, Express, Next.js |
+| 🧠 Databases | MongoDB, SQLite |
+| 🧰 Tools | Git, VS Code, Linux (Debian XFCE) |
+| ☁️ Deployment | Vercel, Render, Railway |
+
+---
+
+### 📂 Featured Projects
+- 🪄 [**fjrtelebot**](https://github.com/fjrhub/fjrtelebot): Telegram bot with modular command system  
+- 🧾 [**fajimelist**](https://github.com/fjrhub/fajimelist): Simple list manager powered by JavaScript  
+- 🔧 [**tampermonkey-scripts**](https://github.com/fjrhub/tampermonkey-scripts): Custom browser automation scripts  
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=fjrhub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrhub&layout=compact&theme=tokyonight&langs_count=8" 
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fjrhub&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrhub&layout=compact&theme=tokyonight" height="150" />
 </p>
+
+---
+
+### 🕶️ Fun Facts
+- 🧩 Linux user (Debian 13 XFCE)
+- 🎧 Usually code while listening to synthwave  
+- 💡 Motto: *"Code. Learn. Automate. Repeat."*
+
+---
+
+### 📫 Connect
+- 🌎 Website/Portfolio: *(coming soon)*  
+- 🐙 GitHub: [fjrhub](https://github.com/fjrhub)
