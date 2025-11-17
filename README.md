@@ -28,7 +28,7 @@
 ### 📂 Featured Projects
 
 - 🪄 [**fjrtelebot**](https://github.com/fjrhub/fjrtelebot): Feature-rich Telegram bot built with the Grammy framework — fast, modular, and easy to extend.  
-- 🪄 [**fjrtelebot**](https://github.com/fjrhub/fjrtelebot-vercel): A lightweight Vercel-optimized deployment of the fjrtelebot project — fast builds, minimal overhead, and ideal for serverless hosting.
+- 🪄 [**fjrtelebot-vercel**](https://github.com/fjrhub/fjrtelebot-vercel): A lightweight Vercel-optimized deployment of the fjrtelebot project — fast builds, minimal overhead, and ideal for serverless hosting.
 - 🎬 [**fajimelist**](https://github.com/fjrhub/fajimelist): Anime list website built with Next.js and deployed on Vercel — clean, fast, and responsive.  
 - 🔧 [**tampermonkey-scripts**](https://github.com/fjrhub/tampermonkey-scripts): A collection of custom Tampermonkey scripts for browser automation and content enhancement.  
 ---
