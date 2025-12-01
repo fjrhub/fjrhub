@@ -31,14 +31,14 @@
 - 🪄 [**fjrtelebot-vercel**](https://github.com/fjrhub/fjrtelebot-vercel): A lightweight Vercel-optimized deployment of the fjrtelebot project — fast builds, minimal overhead, and ideal for serverless hosting.
 - 🎬 [**fajimelist**](https://github.com/fjrhub/fajimelist): Anime list website built with Next.js and deployed on Vercel — clean, fast, and responsive.  
 - 🔧 [**tampermonkey-scripts**](https://github.com/fjrhub/tampermonkey-scripts): A collection of custom Tampermonkey scripts for browser automation and content enhancement.  
----
+<!-----
 
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fjrhub&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrhub&layout=compact&theme=tokyonight" height="150" />
 </p>
-
+-->
 ---
 
 ### 🕶️ Fun Facts
