@@ -46,5 +46,5 @@
 ---
 
 ### 📫 Connect
-- 🌎 Portfolio: https://fjr.vercel.app/
-- 🐙 GitHub: https://github.com/fjrhub
+[![Portfolio](https://img.shields.io/badge/Portfolio-fjr.vercel.app-000?style=for-the-badge&logo=vercel)](https://fjr.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-fjrhub-181717?style=for-the-badge&logo=github)](https://github.com/fjrhub)
