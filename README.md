@@ -41,7 +41,7 @@
 ### 🕶️ Fun Facts
 - 🧩 Linux user (Debian 13 XFCE)
 - 🎧 Usually code while listening to synthwave  
-- 💡 Motto: *"Code. Learn. Automate. Repeat."*
+💡 Motto: *"Understand systems. Write code. Simplify life."*
 
 ---
 
