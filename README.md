@@ -1,5 +1,5 @@
 🌐 Passionate about **technology, automation, and web development**  
-💻 Mostly work with **JavaScript / Node.js**  
+💻 Mostly work with **JavaScript / Node.js** 
 ⚙️ Love building **bots**, **web tools**, and exploring **API integrations**
 
 ---
